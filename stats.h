@@ -22,6 +22,11 @@
 #define __STATS_H__
 
 /* Add Your Declarations and Function Comments here */ 
+double find_mean();
+double find_median();
+int find_max();
+int find_min();
+
 
 /**
  * @brief <Add Brief Description of Function Here>
@@ -35,6 +40,5 @@
  *
  * @return <Add Return Informaiton here>
  */
-
 
 #endif /* __STATS_H__ */
